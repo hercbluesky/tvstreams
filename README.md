@@ -24,5 +24,3 @@
 
 Κάποια κανάλια (ειδικά MEGA & STAR) δεν εκπέμπουν όλο το 24ωρο. Δεν έχουν πρόβλημα οι ροές!
 
-![preview](https://github.com/koulaxizis/tvstreams/blob/master/preview.PNG)
-
